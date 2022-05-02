@@ -6,3 +6,8 @@ All notable changes to the "js-html-template-strings" extension will be document
 
 - Initial release
 - HTML syntax highlighting in JS template strings
+
+## [0.0.2]
+
+- Added Typescript Support
+- Removed unneccesarry configuration (in source files)

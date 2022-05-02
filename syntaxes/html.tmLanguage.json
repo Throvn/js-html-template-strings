@@ -5,7 +5,7 @@
 	"version": "https://github.com/textmate/html.tmbundle/commit/0c3d5ee54de3a993f747f54186b73a4d2d3c44a2",
 	"name": "HTML",
 	"scopeName": "html-string.injection",
-	"injectionSelector": "L:string.quasi.js",
+	"injectionSelector": ["L:string.quasi.js", "L:string.template.ts"],
 	"patterns": [{
 			"include": "#xml-processing"
 		},

@@ -4,19 +4,15 @@ This extension enables syntax highlighting for template strings (\`\`). It is fu
 
 ## Features
 
-| **Before:** Without this Extension | **After:** With this Extension |
-| ---------------------------------- | ------------------------------ |
-| ![before](./images/before.png)     | ![after](./images/after.png)   |
+| **Before:** Without this Extension                                                                  | **After:** With this Extension                                                                    |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| ![before](https://raw.githubusercontent.com/Throvn/js-html-template-strings/main/images/before.png) | ![after](https://raw.githubusercontent.com/Throvn/js-html-template-strings/main/images/after.png) |
 
 > Tip: This works with your preferred color scheme!
 
 ## Usage
 
-1. Just install this extension. (And reload if required)
-2. Open a JavaScript file
-3. In the statusbar (on the bottom right), click the Language Button (Should show: `JavaScript`)
-4. Click `Configure File Association for '.js'`
-5. Select `Javascript (\w HTML templating)`
+1. Just install this extension. (click reload if required)
 
 ## Other
 
