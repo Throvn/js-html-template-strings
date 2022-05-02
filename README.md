@@ -6,7 +6,7 @@ This extension enables syntax highlighting for template strings (\`\`). It is fu
 
 | **Before:** Without this Extension | **After:** With this Extension |
 | ---------------------------------- | ------------------------------ |
-| ![before](images/before.png)       | ![after](images/after.png)     |
+| ![before](./images/before.png)     | ![after](./images/after.png)   |
 
 > Tip: This works with your preferred color scheme!
 
@@ -20,7 +20,7 @@ This extension enables syntax highlighting for template strings (\`\`). It is fu
 
 ## Other
 
-- [Want to add a feature (contribute)?](http://code.visualstudio.com/docs/languages/markdown)
-- [Want to file an issue?](https://help.github.com/articles/markdown-basics/)
+- [Want to add a feature (contribute)?](https://github.com/Throvn/js-html-template-strings/issues)
+- [Want to file an issue?](https://github.com/Throvn/js-html-template-strings/issues)
 
 **Enjoy!**

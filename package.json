@@ -3,6 +3,7 @@
     "displayName": "HTML highlights in JS template strings",
     "description": "Highlights HTML in your JS template strings accordingly.",
     "version": "0.0.1",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.66.0"
     },
