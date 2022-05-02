@@ -5,8 +5,11 @@
     "version": "0.0.1",
     "license": "MIT",
     "repository": {
+        "type": "git",
         "url": "https://github.com/Throvn/js-html-template-strings"
     },
+    "icon": "icon.png",
+    "publisher": "Throvn",
     "engines": {
         "vscode": "^1.66.0"
     },
