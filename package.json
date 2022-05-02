@@ -4,6 +4,9 @@
     "description": "Highlights HTML in your JS template strings accordingly.",
     "version": "0.0.1",
     "license": "MIT",
+    "repository": {
+        "url": "https://github.com/Throvn/js-html-template-strings"
+    },
     "engines": {
         "vscode": "^1.66.0"
     },
