@@ -1,4 +1,4 @@
-# HTML highlighting for JS
+# HTML highlighting for JavaScript & TypeScript
 
 This extension enables syntax highlighting for template strings (\`\`). It is fully compatible with all of your favorite color schemes too!
 

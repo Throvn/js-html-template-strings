@@ -11,3 +11,11 @@ All notable changes to the "js-html-template-strings" extension will be document
 
 - Added Typescript Support
 - Removed unneccesarry configuration (in source files)
+
+## [0.0.3]
+
+- Fixed images in Readme.md
+
+## [0.0.4]
+
+- Added TypeScript to Readme.md

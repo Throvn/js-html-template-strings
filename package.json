@@ -1,8 +1,8 @@
 {
     "name": "js-html-template-strings",
-    "displayName": "HTML highlights in JS template strings",
-    "description": "Highlights HTML in your JS template strings accordingly.",
-    "version": "0.0.2",
+    "displayName": "HTML highlighting for TS & JS template strings",
+    "description": "Highlights HTML in your JavaScript & TypeScript template strings accordingly.",
+    "version": "0.0.4",
     "license": "MIT",
     "repository": {
         "type": "git",
