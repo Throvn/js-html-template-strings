@@ -1,0 +1,37 @@
+{
+    "name": "js-html-template-strings",
+    "displayName": "HTML highlights in JS template strings",
+    "description": "Highlights HTML in your JS template strings accordingly.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "javascript",
+            "aliases": [
+                "JavaScript (\\w HTML templating)"
+            ],
+            "extensions": [
+                ".js"
+            ],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "path": "./syntaxes/html.tmLanguage.json",
+            "scopeName": "html-string.injection",
+            "injectTo": [
+                "source.js"
+            ],
+            "embeddedLanguages": {
+                "meta.embedded.inline.html": "html"
+            }
+        }]
+    },
+    "devDependencies": {
+        "vscode": "^1.1.37"
+    }
+}
