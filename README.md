@@ -1,5 +1,7 @@
 # HTML highlighting for JavaScript & TypeScript
 
+[![Extension Installs](https://vsmarketplacebadge.apphb.com/installs/throvn.js-html-template-strings.svg)](https://marketplace.visualstudio.com/items?itemName=throvn.js-html-template-strings)
+
 This extension enables syntax highlighting for template strings (\`\`). It is fully compatible with all of your favorite color schemes too!
 
 ## Features
